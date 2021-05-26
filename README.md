@@ -28,7 +28,7 @@
 
 ## Screen Shots
 
-![screenshot](./screenshots/screenshot.png?raw=true)
+![screenshot](./screenshots/screenshot.jpg?raw=true)
 
 ## Reference
 
