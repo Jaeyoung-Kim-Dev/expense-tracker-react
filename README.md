@@ -2,7 +2,7 @@
 
 ## What project is it?
 
-> This is Expense Tracker, a simple project using React's Context. It can view, enter, and delete expense based on income and expense.
+> This is Expense Tracker, a simple project using React's Context. It can view, add and delete expense based on income and expense.
 
 ## What is Context in React?
 
